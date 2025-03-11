@@ -1,0 +1,3 @@
+vanna[chromadb,openai,postgres]
+pandas
+python-dotenv
